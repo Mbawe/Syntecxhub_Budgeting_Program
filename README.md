@@ -12,3 +12,11 @@ The investment feature estimates future investment value. It uses the current in
 The program also includes a scenario feature. This allows the user to test possible changes, such as increasing expenses by 10% or decreasing them by 5%. The program shows the previous total, new total, and difference.
 
 Finally, the program can create a monthly report in JSON format. The report summarizes monthly income, expenses, savings, investments, transaction counts, averages, highest and lowest transactions, and net cash flow. All data is currently stored in memory, so it is removed when the program closes.
+
+#SHORTCOMINGS
+-My idea of a fully functional program wasn't achieved, with some functionalities being half baked such as not being able to save progress.
+-On the statistical end, it is too simplified and math calculations narrow
+
+#MY OVERALL TAKE
+Exciting idea to build my NumPy project, seeing that it is my first time experiencing this program. Looking forward to building more on this project 
+
